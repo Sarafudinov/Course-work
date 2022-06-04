@@ -1,13 +1,13 @@
 # Course-work
 
-Creational
+Creational:
   Builder
 	Factory
 
-Structural			
+Structural:			
   Decorator
-	Bridge
+	Facade
 
-Behavioral			
+Behavioral:			
   Memento
 	Strategy
