@@ -1,5 +1,6 @@
 # Course-work
-Location				        Patterns:			       status	 |
+
+Location				        Patterns:			       status	 
 ------------------------------------------------------
 | Enemy					        Builder				      finished |
 ------------------------------------------------------
